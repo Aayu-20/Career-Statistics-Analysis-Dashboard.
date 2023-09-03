@@ -1,4 +1,5 @@
 Gain profound insights into the illustrious cricketing journey of Sachin Tendulkar with my comprehensive Career Statistics Analysis Dashboard. This powerful tool harnesses the analytical prowess of MS Excel and the dynamic visualization capabilities of Power BI to provide an in-depth understanding of Tendulkar's remarkable career.
+
 Key Features:
 
 Data Exploration: Dive into a treasure trove of statistical data covering Sachin Tendulkar's entire career. From matches played to centuries scored, this dashboard offers a 360-degree view of his cricketing achievements.
